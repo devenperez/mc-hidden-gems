@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hidden_gems:blocks/moonstone_ore",
+    "up": "hidden_gems:blocks/moonstone_ore",
+    "north": "hidden_gems:blocks/moonstone_ore",
+    "east": "hidden_gems:blocks/moonstone_ore",
+    "south": "hidden_gems:blocks/moonstone_ore",
+    "west": "hidden_gems:blocks/moonstone_ore",
+    "particle": "hidden_gems:blocks/moonstone_ore"
+  }
+}

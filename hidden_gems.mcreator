@@ -1,0 +1,51 @@
+{
+  "mod_elements": [
+    {
+      "name": "MoonstoneOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moonstone_ore"
+    },
+    {
+      "name": "MoonstoneMiner",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moonstone_miner"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.hidden_gems.moonstone_ore": "Moonstone Ore",
+      "enchantment.hidden_gems.moonstone_miner": "Moonstone Miner"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hidden_gems",
+    "modName": "Hidden Gems",
+    "version": "1.0.0",
+    "author": "deven, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "ca.devenperez.hiddengems",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
